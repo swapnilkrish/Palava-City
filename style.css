@@ -150,3 +150,20 @@ a {
 html {
     scroll-behavior: smooth;
 }
+
+#contact {
+    background-color: fuchsia;
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
